@@ -1,1 +1,2 @@
 # EVIDENCE2
+Personally, I enjoyed the course because the topics we discussed during the course provided me with knowledge about significant advantages to address problems in various industries and sectors, although it requires a lot of understanding and skill in formulating models and selecting appropriate approaches if you are not very proficient in programming, I enjoyed learning something new and being constantly guided by the teacher.   
